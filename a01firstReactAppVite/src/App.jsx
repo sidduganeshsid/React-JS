@@ -1,10 +1,16 @@
+import Nav from "./Nav"
 
-
+//function name first has to be capital always for the components.
 function App() {
   
 
   return (
-   <h1>Vite + React App</h1>
+    <>
+    <Nav />
+     <h1>Vite + React App</h1>
+
+    </>
+  
   )
 }
 
