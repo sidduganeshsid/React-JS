@@ -1,6 +1,5 @@
 import { useState } from 'react' //it is know as hooks importing
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 
 function App() {
